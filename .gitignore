@@ -1,0 +1,4 @@
+.env
+venv/
+job_ids.txt
+__pycache__/
